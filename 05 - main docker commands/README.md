@@ -63,12 +63,6 @@ starts the container
 docker start <ID of container>
 ```
 
-## docker logs
-shows the log of the container 
-```bash
-docker logs
-```
-
 ## docker run with port binding
 - starts a new container with a specified port
 - first port is the port of the host machine
